@@ -163,6 +163,7 @@ pageMod.PageMod({
 		self.data.url('core/migrate.js'),
 		self.data.url('core/storage.js'),
 		self.data.url('core/template.js'),
+		self.data.url('core/query-string-parser.js'),
 		self.data.url('vendor/konami.js'),
 		self.data.url('vendor/mediacrush.js'),
 		self.data.url('vendor/gfycat.js'),
